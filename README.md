@@ -1,4 +1,4 @@
-> *This is a fork of the original CS 7643 Deep Learning group project by Shardul Dhande, Emad Albalas, and Travis Nesbit. The original repository is [here](https://github.com/geekmdtravis/cs-7643-final-project).*
+> *A group project by Shardul Dhande, Emad Albalas, and Travis Nesbit. The original repository can be found [here](https://github.com/geekmdtravis/cs-7643-final-project).*
 
 
 # Multimodal Chest X-ray Classifier
