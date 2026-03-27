@@ -413,4 +413,4 @@ Pneumothorax F1:
 
 ## Warning
 
-This project was made for a class and under a time constraint. The code is not optimized and is not meant for production use. It is a proof of concept and should be treated as such. The code may contain bugs and is not guaranteed to work in all environments. Use at your own risk.
+The code is not optimized and is not meant for production use. It is a proof of concept and should be treated as such. The code may contain bugs and is not guaranteed to work in all environments. Use at your own risk.
